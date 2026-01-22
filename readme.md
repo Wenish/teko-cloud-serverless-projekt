@@ -43,3 +43,36 @@ Videospiele im üblichen Sinne, die elektronisch übertragen werden. Sie werden 
 
 Der Prototype ist auf Github verfügbar im Branch feature/webshop:
 https://github.com/VoxelCoreLab/project-alpha-website/tree/feature/webshop
+
+
+
+
+## Notizen
+
+### Serverless Datenkbank Services
+
+Firebase Firestore: https://firebase.google.com/docs/firestore/quotas
+
+MongoDB Atlas Flex: https://www.mongodb.com/docs/atlas/billing/atlas-flex-costs/
+
+
+
+### Serverless Authentication Services
+
+auth0: https://auth0.com/pricing
+
+firebase auth: https://firebase.google.com/docs/auth/limits, https://cloud.google.com/identity-platform/pricing
+
+
+### Serverless Storage Services:
+
+AWS S3: https://aws.amazon.com/s3/pricing/?nc=sn&loc=4&refid=6552e9e3-f16d-449d-a95e-e07bdc791281
+
+Firebase Storage: https://firebase.google.com/docs/storage/faqs-storage-changes-announced-sept-2024, https://firebase.google.com/pricing
+
+minio: https://www.min.io/pricing
+
+
+### Serverless Backend Services:
+
+Railway: https://railway.com/pricing
