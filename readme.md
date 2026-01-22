@@ -15,7 +15,7 @@ Es muss sichergestellt werden, dass Download Links ausschliesslich für angemeld
 
 Dem Kunden wird garantiert, dass er mindestens drei Monate im Voraus informiert wird, falls die Downloads künftig nicht mehr zur Verfügung stehen.
 
-Das Spiel selbst soll nach dem Download lokal ohne Benutzerkonto gestartet werden können. Es wird bewusst darauf verzichtet, technische Maßnahmen zur Verhinderung von Piraterie umzusetzen.
+Das Spiel selbst soll nach dem Download lokal ohne Benutzerkonto gestartet werden können. Es wird bewusst darauf verzichtet, technische Massnahmen zur Verhinderung von Piraterie umzusetzen.
 
 Zukünftige Updates des Spiels stehen ebenfalls zum Download zur Verfügung.
 
