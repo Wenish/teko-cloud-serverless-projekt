@@ -24,8 +24,8 @@ Zukünftige Updates des Spiels stehen ebenfalls zum Download zur Verfügung.
 Dem Benutzer wird stets nur die aktuelle Version zum Download angeboten.
 
 
-Bedeutung Herunterladbares Spiel:
-Videospiele im üblichen Sinne, die elektronisch übertragen werden. Sie werden auf ein Gerät mit dauerhaften gewährten Zufriff heruntergeladen. Ausgenommen hiervon sind Spiele, die als Wetten, Glückspiele, Lotterie usw. gelter. (Quelle Stripe)
+Bedeutung herunterladbares Spiel:
+Videospiele im üblichen Sinne, die elektronisch übertragen werden. Sie werden auf ein Gerät mit dauerhaften gewährten Zugriff heruntergeladen. Ausgenommen hiervon sind Spiele, die als Wetten, Glücksspiele, Lotterie usw. gelten. (Quelle Stripe)
 
 
 
