@@ -36,3 +36,11 @@ Videospiele im üblichen Sinne, die elektronisch übertragen werden. Sie werden 
 ## Diskussion
 
 ## Empfehlung und Ausblick
+
+
+## Anhang
+
+### Web Client Prototype
+
+Der Prototype ist auf Github verfügbar im Branch feature/webshop:
+https://github.com/VoxelCoreLab/project-alpha-website/tree/feature/webshop
