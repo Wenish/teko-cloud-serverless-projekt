@@ -3,25 +3,22 @@
 
 ### Ausgangslage
 
-Dieses Projekt wird im Fach Cloud Serverless umgesetzt. Der Fokus liegt eine Cloud Architektur für eine von uns Definierte Problemstellung zu entwerfen.
+Dieses Projekt wird im Fach Cloud and Serverless als Gruppenarbeit (3 Personen) durchgeführt. Es muss eine Cloud Architektur für eine von uns Definierte Problemstellung entworfen werden. Der Fokus liegt nicht auf der Implmentierung der Applikation, sonder auf die Konzeption, Analyse und Begründung der gewählten Cloud Architektur.
 
-Das Spiel Shadow Infection benötigt für den Vertrieb eine Webseite, über die das Spiel verkauft und heruntergeladen werden kann. Das Spiel liegt in drei Artefakten vor: einem Windows Build, einem Linux Build und einem macOS Build. Jedes Build hat eine Grösse von ca. 500 Megabyte.
+Als Anwendungsfall dient das Computerspiel Shadow Infection, ein digital vertriebenes Spiel, das über eine eigene Webseite verkauft und anschliessend heruntergeladen werden soll. Das Spiel liegt in drei separaten Artefakten vor (Windows, Linux und macOS), wobei jedes Build eine Grösse von rund 500 MB aufweist. Der Vertrieb erfolgt ausschliesslich als digitales Produkt.
 
-Aktuell existiert ein Web Client Prototyp, der darstellt, wie der Kunde das Spiel kaufen und anschliessend herunterladen kann. Dieser Prototyp verfügt jedoch noch über keine Backend Logik. Für die Zahlungsabwicklung ist Stripe als Anbieter festgelegt. Das Spiel wird als herunterladbares digitales Produkt vertrieben.
+Für den Kaufprozess existiert bereits ein Web Client Prototyp, der den Ablauf vom Kauf bis zum Download visuell darstellt. Dieser Prototyp enthält jedoch keine Backend Logik. Für die Zahlungsabwicklung ist der externe Zahlungsdienstleister Stripe festgelegt. Dieser Service fällt in die Kategorie "herunterladbares Spiel".
 
 ### Problemstellung
 
-Ein Kunde muss ein Benutzerkonto erstellen können. Mit dem Kauf des Spiels erhält der Kunde über sein Benutzerkonto Zugriff auf alle verfügbaren Builds.
+Kunden sollen ein Benutzerkonto erstellen können und nach dem Kauf des Spiels dauerhaft Zugriff auf die aktuelle Spielversion erhalten. Die Download Links dürfen ausschliesslich für authentifizierte Benutzerkonten verfügbar sein, die das Spiel erworben haben. Ein Benutzerkonto darf das Spiel beliebig oft herunterladen.
 
-Es muss sichergestellt werden, dass Download Links ausschliesslich für angemeldete Benutzerkonten verfügbar sind, die das Spiel erworben haben. Ein Benutzerkonto darf das Spiel beliebig oft herunterladen.
+Die Dateien in Form von ZIP sollen möglichst günstig ausgeliefert werden.
 
-Dem Kunden wird garantiert, dass er mindestens drei Monate im Voraus informiert wird, falls die Downloads künftig nicht mehr zur Verfügung stehen.
+Das Spiel selbst soll nach dem Download ohne Online Zwang oder Benutzerkonto lokal gestartet werden können. Auf technische Massnahmen zur Verhinderung von Piraterie wird dort bewusst verzichtet.
 
-Das Spiel selbst soll nach dem Download lokal ohne Benutzerkonto gestartet werden können. Es wird bewusst darauf verzichtet, technische Massnahmen zur Verhinderung von Piraterie umzusetzen.
+Die zentrale Herausforgerung dieser Arbeit besteht darin, eine Cloud Architektur zu definieren, die rein aus PaaS oder SaaS Diensten besteht. Diese Architektur soll, dann noch mit einer IaaS Lösung gegenüber gestellt werden.
 
-Zukünftige Updates des Spiels stehen ebenfalls zum Download zur Verfügung.
-
-Dem Benutzer wird stets nur die aktuelle Version zum Download angeboten.
 
 
 Bedeutung herunterladbares Spiel:
