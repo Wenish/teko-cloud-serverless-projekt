@@ -3,6 +3,8 @@
 
 ### Ausgangslage
 
+Dieses Projekt wird im Fach Cloud Serverless umgesetzt. Der Fokus liegt eine Cloud Architektur für eine von uns Definierte Problemstellung zu entwerfen.
+
 Das Spiel Shadow Infection benötigt für den Vertrieb eine Webseite, über die das Spiel verkauft und heruntergeladen werden kann. Das Spiel liegt in drei Artefakten vor: einem Windows Build, einem Linux Build und einem macOS Build. Jedes Build hat eine Grösse von ca. 500 Megabyte.
 
 Aktuell existiert ein Web Client Prototyp, der darstellt, wie der Kunde das Spiel kaufen und anschliessend herunterladen kann. Dieser Prototyp verfügt jedoch noch über keine Backend Logik. Für die Zahlungsabwicklung ist Stripe als Anbieter festgelegt. Das Spiel wird als herunterladbares digitales Produkt vertrieben.
