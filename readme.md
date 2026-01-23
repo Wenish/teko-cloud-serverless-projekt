@@ -88,4 +88,4 @@ Azure Static Web Apps: https://azure.microsoft.com/en-us/pricing/details/app-ser
 Cloudflare Pages: https://pages.cloudflare.com/
 
 
-Github Pages ist nicht erlaubt für e-commectce / provide SaaS sites: https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+Github Pages ist nicht erlaubt für online business / e-commectce / provide SaaS sites: https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
