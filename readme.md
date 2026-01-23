@@ -76,3 +76,9 @@ minio: https://www.min.io/pricing
 ### Serverless Backend Services:
 
 Railway: https://railway.com/pricing
+
+### Serverless Static Site Hosting:
+
+(nicht verwechslen mit App Hosting)
+
+Firebase Hosting: https://firebase.google.com/docs/hosting, https://firebase.google.com/pricing
