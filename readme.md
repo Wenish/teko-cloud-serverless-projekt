@@ -82,3 +82,10 @@ Railway: https://railway.com/pricing
 (nicht verwechslen mit App Hosting)
 
 Firebase Hosting: https://firebase.google.com/docs/hosting, https://firebase.google.com/pricing
+
+Azure Static Web Apps: https://azure.microsoft.com/en-us/pricing/details/app-service/static/
+
+Cloudflare Pages: https://pages.cloudflare.com/
+
+
+Github Pages ist nicht erlaubt für e-commectce / provide SaaS sites: https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
