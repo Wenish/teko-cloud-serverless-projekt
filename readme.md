@@ -27,10 +27,25 @@ Die zentrale Herausforgerung dieser Arbeit besteht darin, eine Cloud Architektur
 
 ### Muss
 
+- Die Anforderungen müssen über Verfügbarkeit und Resilienz analysiert werden.
+- Die Anforderungen müssen über Last und Performance analysiert werden.
+- Die Anforderungen müssen über Sicherheit und Datenschutz analysiert werden.
+- In den Anforderungen muss der Kostenrahmen definiert werden.
+
+- Es muss ein Diagramm der Cloud Architektur erstellt werden.
+- Jeder Komponent in der Cloud Architektur muss beschrieben werden, wie es die Anforderungen erfüllt, bzw. Kompromisse eingegangen wurden oder ob es noch offene Fragen gibt.
+- Es muss eine Kostenabschätzung der gewählen Cloud Architektur erstellt werden.
+- Die Empfohlene Cloud Artchitektur muss Kostenmässig mit einer IaaS Lösung verglichen werden.
+- Die Wahl des Cloud Anbieters und der Dienste muss mittels Nutzwertanalyse begründet werden.
+
+### Soll
+- Es sollen Dienste mit Ausgabelimit in der Bewertung bevorzugt werden.
+- Es sollen Dienste mit Kontrollierbarer Skalierbareit bevorzugt werden.
+
 ### Kann
 
-
-
+- Das System wird mit OpenTofu als Infrastructure as Code deklariert.
+- Definition geeigneter Metriken für das Monitoring, welche die Erfüllung der identifizierten Anforderungen messbar machen.
 
 
 # Vorgehen
