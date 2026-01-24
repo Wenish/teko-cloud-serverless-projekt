@@ -21,12 +21,15 @@ Die zentrale Herausforgerung dieser Arbeit besteht darin, eine Cloud Architektur
 
 
 
-Bedeutung herunterladbares Spiel:
-Videospiele im üblichen Sinne, die elektronisch übertragen werden. Sie werden auf ein Gerät mit dauerhaften gewährten Zugriff heruntergeladen. Ausgenommen hiervon sind Spiele, die als Wetten, Glücksspiele, Lotterie usw. gelten. (Quelle Stripe)
-
-
 
 ### Zielsetzung
+
+
+
+
+
+
+
 
 ## Vorgehen
 
@@ -45,7 +48,12 @@ Der Prototype ist auf Github verfügbar im Branch feature/webshop:
 https://github.com/VoxelCoreLab/project-alpha-website/tree/feature/webshop
 
 
+## Glossar
 
+
+Bedeutung herunterladbares Spiel:
+
+Videospiele im üblichen Sinne, die elektronisch übertragen werden. Sie werden auf ein Gerät mit dauerhaften gewährten Zugriff heruntergeladen. Ausgenommen hiervon sind Spiele, die als Wetten, Glücksspiele, Lotterie usw. gelten. (Quelle Stripe)
 
 ## Notizen
 
