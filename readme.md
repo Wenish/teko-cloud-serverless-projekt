@@ -1,7 +1,7 @@
 # Teko Cloud Serverless Projektarbeit
-## Einleitung
+# Einleitung
 
-### Ausgangslage
+## Ausgangslage
 
 Dieses Projekt wird im Fach Cloud and Serverless als Gruppenarbeit (3 Personen) durchgeführt. Es muss eine Cloud Architektur für eine von uns Definierte Problemstellung entworfen werden. Der Fokus liegt nicht auf der Implmentierung der Applikation, sonder auf die Konzeption, Analyse und Begründung der gewählten Cloud Architektur.
 
@@ -9,7 +9,7 @@ Als Anwendungsfall dient das Computerspiel Shadow Infection, ein digital vertrie
 
 Für den Kaufprozess existiert bereits ein Web Client Prototyp, der den Ablauf vom Kauf bis zum Download visuell darstellt. Dieser Prototyp enthält jedoch keine Backend Logik. Für die Zahlungsabwicklung ist der externe Zahlungsdienstleister Stripe festgelegt. Dieser Service fällt in die Kategorie "herunterladbares Spiel".
 
-### Problemstellung
+## Problemstellung
 
 Kunden sollen ein Benutzerkonto erstellen können und nach dem Kauf des Spiels dauerhaft Zugriff auf die aktuelle Spielversion erhalten. Die Download Links dürfen ausschliesslich für authentifizierte Benutzerkonten verfügbar sein, die das Spiel erworben haben. Ein Benutzerkonto darf das Spiel beliebig oft herunterladen.
 
@@ -22,42 +22,44 @@ Die zentrale Herausforgerung dieser Arbeit besteht darin, eine Cloud Architektur
 
 
 
-### Zielsetzung
+## Zielsetzung
+
+
+### Muss
+
+### Kann
 
 
 
 
 
+# Vorgehen
+
+# Ergebnisse
+
+# Diskussion
+
+# Empfehlung und Ausblick
 
 
+# Anhang
 
-## Vorgehen
-
-## Ergebnisse
-
-## Diskussion
-
-## Empfehlung und Ausblick
-
-
-## Anhang
-
-### Web Client Prototype
+## Web Client Prototype
 
 Der Prototype ist auf Github verfügbar im Branch feature/webshop:
 https://github.com/VoxelCoreLab/project-alpha-website/tree/feature/webshop
 
 
-## Glossar
+# Glossar
 
 
 Bedeutung herunterladbares Spiel:
 
 Videospiele im üblichen Sinne, die elektronisch übertragen werden. Sie werden auf ein Gerät mit dauerhaften gewährten Zugriff heruntergeladen. Ausgenommen hiervon sind Spiele, die als Wetten, Glücksspiele, Lotterie usw. gelten. (Quelle Stripe)
 
-## Notizen
+# Notizen
 
-### Serverless Datenkbank Services
+## Serverless Datenkbank Services
 
 Firebase Firestore: https://firebase.google.com/docs/firestore/quotas
 
@@ -65,14 +67,14 @@ MongoDB Atlas Flex: https://www.mongodb.com/docs/atlas/billing/atlas-flex-costs/
 
 
 
-### Serverless Authentication Services
+## Serverless Authentication Services
 
 auth0: https://auth0.com/pricing
 
 firebase auth: https://firebase.google.com/docs/auth/limits, https://cloud.google.com/identity-platform/pricing
 
 
-### Serverless Storage Services:
+## Serverless Storage Services:
 
 AWS S3: https://aws.amazon.com/s3/pricing/?nc=sn&loc=4&refid=6552e9e3-f16d-449d-a95e-e07bdc791281
 
@@ -81,11 +83,11 @@ Firebase Storage: https://firebase.google.com/docs/storage/faqs-storage-changes-
 minio: https://www.min.io/pricing
 
 
-### Serverless Backend Services:
+## Serverless Backend Services:
 
 Railway: https://railway.com/pricing
 
-### Serverless Static Site Hosting:
+## Serverless Static Site Hosting:
 
 (nicht verwechslen mit App Hosting)
 
