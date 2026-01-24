@@ -114,3 +114,9 @@ Cloudflare Pages: https://pages.cloudflare.com/
 
 
 Github Pages ist nicht erlaubt für online business / e-commectce / provide SaaS sites: https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+
+## IaaS Servies:
+
+
+
+
