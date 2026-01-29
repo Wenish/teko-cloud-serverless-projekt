@@ -122,6 +122,8 @@ Github Pages ist nicht erlaubt für online business / e-commectce / provide SaaS
 
 DigitalOcean: https://www.digitalocean.com/
 
+SpacetimeDB: https://spacetimedb.com/pricing
+
 ## IaaS Servies:
 
 
