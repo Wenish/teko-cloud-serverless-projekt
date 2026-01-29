@@ -1,3 +1,9 @@
+-Notieren was die App können soll (ziele verbessern)
+-Aufgabenstellung und Ausgangslage genauer analysieren
+-Ziele der Applikation ergänzen
+-Zielsetzung in die Ausgangslage überführen
+
+
 # Teko Cloud Serverless Projektarbeit
 # Einleitung
 
