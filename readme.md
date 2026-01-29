@@ -80,6 +80,8 @@ Firebase Firestore: https://firebase.google.com/docs/firestore/quotas
 
 MongoDB Atlas Flex: https://www.mongodb.com/docs/atlas/billing/atlas-flex-costs/
 
+Neon: https://neon.com/
+
 
 
 ## Serverless Authentication Services
@@ -100,7 +102,7 @@ minio: https://www.min.io/pricing
 
 ## Serverless Backend Services:
 
-Railway: https://railway.com/pricing
+Railway: https://railway.com/pricing (not serverless its PaaS)
 
 ## Serverless Static Site Hosting:
 
