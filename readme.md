@@ -52,7 +52,36 @@ Die zentrale Herausforgerung dieser Arbeit besteht darin, eine Cloud Architektur
 
 
 # Vorgehen
-Aus zielen soll die Anforderungen definiert werden
+Aus zielen soll die Anforderungen definiert werden. Als Referenz für die Berechnungen der Leistungsparameter nehmen wir downloadzahlen des Spiels: Minecraft.
+Statistics
+
+27,728,383 registered users, of which 5,745,560 (20.72%) have bought the game.
+
+In the last 24 hours, 77,468 people registered, and 9,822 people bought the game.
+
+
+
+
+## Re 1.1
+Es soll eine Serverless-Architektur entworfen werden, welche eine Verfügbarkeit von mindestens 99.9 % erreicht und Single Points of Failure vermeidet.
+## Re 1.2
+Die Infrastruktur soll eine Million downloads im Monat ermöglichen. Pro Tag soll eine Peak Leistung von 100'000 Downloads ermöglicht werden.
+Der Authentifizierungs Dienst soll 2 Millionen Aktive User speichern 
+
+## Re 1.3
+
+## Re 1.4
+
+## Re 1.5
+
+## Re 1.6
+
+## Re 1.7
+
+## Re 1.8
+
+## Re 1.9
+
 # Ergebnisse
 
 # Diskussion
