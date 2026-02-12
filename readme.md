@@ -52,8 +52,7 @@ Die zentrale Herausforgerung dieser Arbeit besteht darin, eine Cloud Architektur
 
 
 # Vorgehen
-Weiteres Vorgehen definieren
-
+Aus zielen soll die Anforderungen definiert werden
 # Ergebnisse
 
 # Diskussion
