@@ -68,19 +68,8 @@ Es soll eine Serverless-Architektur entworfen werden, welche eine Verfügbarkeit
 Die Infrastruktur soll eine Million downloads im Monat ermöglichen. Pro Tag soll eine Peak Leistung von 100'000 Downloads ermöglicht werden.
 Der Authentifizierungs Dienst soll 2 Millionen Aktive User speichern 
 
-## Re 1.3
+Vorgehen
 
-## Re 1.4
-
-## Re 1.5
-
-## Re 1.6
-
-## Re 1.7
-
-## Re 1.8
-
-## Re 1.9
 
 # Ergebnisse
 
