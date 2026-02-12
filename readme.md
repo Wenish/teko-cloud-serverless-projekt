@@ -68,7 +68,19 @@ Es soll eine Serverless-Architektur entworfen werden, welche eine Verfügbarkeit
 Die Infrastruktur soll eine Million downloads im Monat ermöglichen. Pro Tag soll eine Peak Leistung von 100'000 Downloads ermöglicht werden.
 Der Authentifizierungs Dienst soll 2 Millionen Aktive User speichern 
 
-Vorgehen
+## Vorgehen
+
+- Architektur fixieren
+- Pro Komponente: Festlegung der Kriterien (Kosten, Skalierbarkeit, Sicherheit)
+- Gewichtung
+- Begründung
+
+### Selektion
+
+-Auswahl von mindestens drei Cloudanbietern
+-Dokumentation der Recherchequellen
+
+
 
 
 # Ergebnisse
